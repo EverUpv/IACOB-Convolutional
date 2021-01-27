@@ -1,8 +1,8 @@
 # IACOB-Convolutional
 
-ConvolutionalStarIACOB.ipynb: Modelo de clasificación con redes convolucionales con 49 espectros de tipo O y 49 espectros de tipo B, los espectros fueronn descargados de la base de datos del instituo de astrofísica de Canarias en su base de datos del proyecto IACOB.
+**ConvolutionalStarIACOB.ipynb**: Modelo de clasificación con redes convolucionales con 49 espectros de tipo O y 49 espectros de tipo B, los espectros fueronn descargados de la base de datos del instituo de astrofísica de Canarias en su base de datos del proyecto IACOB.
 
-StarIACOBSelector.ipnb: Modelos de clasificación con métodos de aprendizaje no supervisado tales como:
+**StarIACOBSelector.ipnb**: Modelos de clasificación con métodos de aprendizaje no supervisado tales como:
 1.PCA
 
 2.TSNE
@@ -63,10 +63,10 @@ HD4382
 
 HD14143
 
-IACOB.mlx: Contiene el código en Matlab para determinar el emjor modelo para generar un clasificar de estrelas de Tipo O y B. se evaluan 150 modelos. Con 226 caracterísitcas de estrellas de tipo O y de 89 características d eestrellas de tipo B.
+**IACOB.mlx**: Contiene el código en Matlab para determinar el emjor modelo para generar un clasificar de estrelas de Tipo O y B. se evaluan 150 modelos. Con 226 caracterísitcas de estrellas de tipo O y de 89 características d eestrellas de tipo B.
 
 
-Consultas
+**Consultas**
 ====================
 1. ES válido para el doctorado usar el programa Matlab para generar modelos de clasificación en machine learning?
 2. Se puede trabajar la línea de aprendizaje no supervisado en el doctorado?
