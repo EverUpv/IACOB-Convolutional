@@ -20,26 +20,49 @@ HD189090
 HD29248
 
 HD186882
+
 HD37320
+
 HD216200
+
 HD37055
+
 HD37643
+
 HD186568
+
 HD14818
+
 HD29335
+
 HD17743
+
 HD198513
+
 HD18537
+
 HD34656
+
 HD51688
+
 HD198183
+
 HD161984
+
 HD207840
+
 HD21931
+
 HD135230
+
 HD192907
+
 HD25141
+
 HD4382
+
 HD14143
+
+IACOB.mlx: Contiene el código en Matlab para determinar el emjor modelo para generar un clasificar de estrelas de Tipo O y B. se evaluan 150 modelos.
 
 
