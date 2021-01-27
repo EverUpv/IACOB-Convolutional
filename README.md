@@ -63,6 +63,13 @@ HD4382
 
 HD14143
 
-IACOB.mlx: Contiene el código en Matlab para determinar el emjor modelo para generar un clasificar de estrelas de Tipo O y B. se evaluan 150 modelos.
+IACOB.mlx: Contiene el código en Matlab para determinar el emjor modelo para generar un clasificar de estrelas de Tipo O y B. se evaluan 150 modelos. Con 226 caracterísitcas de estrellas de tipo O y de 89 características d eestrellas de tipo B.
+
+
+Consultas
+====================
+1. ES válido para el doctorado usar el programa Matlab para generar modelos de clasificación en machine learning?
+2. Se puede trabajar la línea de aprendizaje no supervisado en el doctorado?
+
 
 
