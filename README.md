@@ -4,14 +4,21 @@ ConvolutionalStarIACOB.ipynb: Modelo de clasificación con redes convolucionales
 
 StarIACOBSelector.ipnb: Modelos de clasificación con métodos de aprendizaje no supervisado tales como:
 1.PCA
+
 2.TSNE
+
 3.UMAP
+
 4.TRIMAP
+
 con estos resultados está pendiente de verificar verificar si las siguietes estrellas que están clasificadas de tipo B, puedan ser clasificadas realmente como tipo O.
 
 HD209008
+
 HD189090
+
 HD29248
+
 HD186882
 HD37320
 HD216200
